@@ -17,30 +17,33 @@
     }
 
     body {
-        background-color: cornflowerblue;
         width: 100vw;
     }
     
     h2 {
-        background-image: linear-gradient(to right, blue, rgba(0, 0, 255, 0.105));
+        background-image: linear-gradient(to right, #011655, #1d48cad7);
         color: white;
-        width: 100vw;
         margin: 10px 0px;
-        padding-left: 20px;
+        padding: 10px 20px;
         text-shadow: 2px 2px 5px black;
     }
 
     a {
+        color: rgb(73, 73, 73);
         text-decoration: none;
         margin: 20px;
     }
 
     footer {
-        background-color: rgb(0, 0, 0);
+        background-color: #011655;
         color: white;
         text-align: center;
-        width: 100vw;
         padding: 10px;
+    }
+
+    footer a{
+        color: white;
+        text-decoration: underline;
     }
 
 </style>
