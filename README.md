@@ -1,5 +1,12 @@
 # html-css
- <h1 style="text-align: center;">Estudos de HTML5 e CSS3</h1>
+<style>
+    h1 {
+        text-align: center;
+        background-color: ;
+    }
+
+</style>
+ <h1>Estudos de HTML5 e CSS3</h1>
 
 <h2>Lista dos projetos</h2>
 <p>
